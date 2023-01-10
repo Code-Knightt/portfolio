@@ -1,18 +1,18 @@
 @font-face {
   font-family: NeueHaasDisplayBold;
-  src: url("NeueHaasDisplayBold.ttf");
+  src: url("@/assets/fonts/NeueHaasDisplayBold.woff") format("woff");
 }
 @font-face {
   font-family: NeueHaasDisplay;
-  src: url("NeueHaasDisplayRoman.ttf");
+  src: url("@/assets/fonts/NeueHaasDisplayRoman.woff") format("woff");
 }
 @font-face {
   font-family: NeueHaasDisplayLight;
-  src: url("NeueHaasDisplayLight.ttf");
+  src: url("@/assets/fonts/NeueHaasDisplayLight.woff") format("woff");
 }
 @font-face {
   font-family: NeueHaasDisplayMedium;
-  src: url("NeueHaasDisplayMedium.ttf");
+  src: url("@/assets/fonts/NeueHaasDisplayMedium.woff") format("woff");
 }
 
 :root {
